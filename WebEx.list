@@ -1,3 +1,5 @@
  	# > WebEx
 host-suffix, wbx2.com, WebEx
 host-suffix, webex.com, WebEx
+host-suffix, appapi.unknowntec.com, WebEx
+host-suffix, simplushome.unknowntec.com, WebEx
